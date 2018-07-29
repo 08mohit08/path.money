@@ -2,7 +2,7 @@
 
 open link given below in chrome
 
-https://chaudharyvineet.github.io/path.money_mobile/
+https://08mohit08.github.io/path.money/
 
 add to hoome screen popup will appear within 5 seconds . accept it
 
